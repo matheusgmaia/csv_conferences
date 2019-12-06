@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="193.8968"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-82.000000 -137.615555 193.896805 238.404083" height="238.40408"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 111.896805,16.152618 111.896805,96.152618 71.896805,56.152618"
+              class="id_Spotify" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 52.699665,44.043858 42.067104,-2.914994 54.175865,-22.112131"
+              class="id_Spotify id_year" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 26.614313,55.496925 -40.325905,-13.410345 -39.670216,-58.692837"
+              class="id_Spotify id_https" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 44.700623,54.107887 6.973451,10.246521 9.018182,-16.949659"
+              class="id_Spotify id_Top" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 65.642044,72.258545 32.101009,87.035294 15.995083,80.780533"
+              class="id_Spotify id_2019" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 43.677231,39.343063 26.562204,-28.200623 43.371758,-56.420193"
+              class="id_Spotify id_playlist" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 57.975239,39.955738 61.388203,-5.221935 77.585083,-19.143503"
+              class="id_Spotify id_Thank" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 29.767242,71.256645 -56.083138,30.718338 -71.187164,-11.411226"
+              class="id_Spotify id_BTS_twt" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 64.610443,40.787815 76.728104,6.811068 92.092911,-0.475293"
+              class="id_Spotify id_spending" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 60.393326,47.931271 55.470139,18.344030 63.691483,6.840554"
+              class="id_Spotify id_hours" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 41.276817,58.657776 -8.410904,16.485531 -10.916060,-14.134459"
+              class="id_Spotify id_Groups" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 57.074333,56.620449 34.138878,35.088486 33.671047,20.266010"
+              class="id_Spotify id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 52.082909,65.519508 8.311728,49.849003 -1.055163,30.035109"
+              class="id_Spotify id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 55.722111,70.243660 10.323503,67.118172 -3.767535,50.943474"
+              class="id_Spotify id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 44.954720,64.704491 -8.286210,37.119164 -16.838079,10.177082"
+              class="id_Spotify id_maroon5" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 50.811684,52.971107 23.956274,16.571167 27.137783,-4.513952"
+              class="id_Spotify id_thebeatles" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 49.081776,58.121159 11.906418,26.851425 9.937876,4.036395"
+              class="id_Spotify id_coldplay" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 56.009087,77.975166 -0.556315,86.877419 -22.378864,70.989700"
+              class="id_Spotify id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 40.198395,74.644760 -35.087437,54.835365 -53.579582,23.136951"
+              class="id_Spotify id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 50.984821,59.558475 14.508061,33.299286 11.102206,12.387300"
+              class="id_Spotify id_5SOS" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 41.065674,79.644608 -40.418991,68.635895 -63.910980,37.804768"
+              class="id_Spotify id_linkinpark" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 49.619022,73.893990 -10.409710,67.089355 -28.151077,44.811573"
+              class="id_Spotify id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 57.401310,63.392773 24.797834,52.509754 17.557684,38.014259"
+              class="id_Spotify id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 45.084538,66.991005 -11.391450,43.030182 -22.229836,16.217913"
+              class="id_Spotify id_falloutboy" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 40.292850,64.562714 -19.728222,29.771931 -28.138319,-1.832021"
+              class="id_Spotify id_onedirection" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 35.262657,43.297840 -0.406393,-30.935551 12.448387,-67.569695"
+              class="id_Spotify id_Aqui" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.896805,56.152618 C 49.044434,80.623489 -21.940424,83.051239 -46.411293,60.198868"
+              class="id_Spotify id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 69.559868,-37.496132 69.559868,-6.728131 54.175865,-22.112131"
+              class="id_year" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 28.090506,-10.659056 -28.217140,-32.607475 -39.670216,-58.692837"
+              class="id_year id_https" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 46.176823,-12.048100 19.082212,-8.950616 9.018182,-16.949659"
+              class="id_year id_Top" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 67.118240,6.102556 44.209770,67.838158 15.995083,80.780533"
+              class="id_year id_2019" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 45.153435,-26.812922 38.670967,-47.397758 43.371758,-56.420193"
+              class="id_year id_playlist" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 61.869522,-18.224718 67.578896,-0.853106 63.691483,6.840554"
+              class="id_year id_hours" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 59.451435,-26.200249 73.496964,-24.419071 77.585083,-19.143503"
+              class="id_year id_Thank" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 31.243439,5.100657 -43.974373,11.521200 -71.187164,-11.411226"
+              class="id_year id_BTS_twt" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 66.086639,-25.368172 88.836868,-12.386070 92.092911,-0.475293"
+              class="id_year id_spending" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 58.550529,-9.535539 46.247639,15.891345 33.671047,20.266010"
+              class="id_year id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.175865,-22.112131 C 52.287884,-13.184878 36.065033,-2.625971 27.137783,-4.513952"
+              class="id_year id_thebeatles" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -4.294216,-94.068832 -4.294216,-23.316837 -39.670216,-58.692837"
+              class="id_https" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -0.642481,-41.931221 32.756699,41.752796 15.995083,80.780533"
+              class="id_https id_2019" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -22.607290,-74.846703 27.217890,-73.483116 43.371758,-56.420193"
+              class="id_https id_playlist" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -36.517284,-42.933125 -55.427452,-14.564158 -71.187164,-11.411226"
+              class="id_https id_BTS_twt" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -25.007708,-55.531990 -7.755215,-28.796967 -10.916060,-14.134459"
+              class="id_https id_Groups" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -5.891199,-66.258499 56.125820,-26.938463 63.691483,6.840554"
+              class="id_https id_hours" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -21.583900,-60.081879 7.629138,-35.035973 9.018182,-16.949659"
+              class="id_https id_Top" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -8.883217,-50.796997 25.453524,7.227261 17.557684,38.014259"
+              class="id_https id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -8.309290,-74.234032 62.043892,-50.504429 77.585083,-19.143503"
+              class="id_https id_Thank" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -31.021866,-70.891930 0.249294,-76.218040 12.448387,-67.569695"
+              class="id_https id_Aqui" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -9.210193,-57.569321 34.794563,-10.194013 33.671047,20.266010"
+              class="id_https id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -14.201616,-48.670261 8.967416,4.566510 -1.055163,30.035109"
+              class="id_https id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -10.562420,-43.946110 10.979190,21.835676 -3.767535,50.943474"
+              class="id_https id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -21.329807,-49.485283 -7.630523,-8.163329 -16.838079,10.177082"
+              class="id_https id_maroon5" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -15.472839,-61.218658 24.611961,-28.711329 27.137783,-4.513952"
+              class="id_https id_thebeatles" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -17.202751,-56.068611 12.562103,-18.431068 9.937876,4.036395"
+              class="id_https id_coldplay" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -10.275436,-36.214600 0.099373,41.594921 -22.378864,70.989700"
+              class="id_https id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -26.086128,-39.545006 -34.431751,9.552866 -53.579582,23.136951"
+              class="id_https id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -15.299704,-54.631290 15.163750,-11.983212 11.102206,12.387300"
+              class="id_https id_5SOS" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -25.218845,-34.545162 -39.763306,23.353397 -63.910980,37.804768"
+              class="id_https id_linkinpark" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -16.665504,-40.295784 -9.754023,21.806864 -28.151077,44.811573"
+              class="id_https id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -21.199989,-47.198761 -10.735761,-2.252313 -22.229836,16.217913"
+              class="id_https id_falloutboy" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -25.991674,-49.627052 -19.072535,-15.510564 -28.138319,-1.832021"
+              class="id_https id_onedirection" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -17.240089,-33.566277 -21.284733,37.768742 -46.411293,60.198868"
+              class="id_https id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -47.451572,-77.498451 -30.915188,-117.378906 -12.109575,-125.160263"
+              class="id_https id_PaulMcCartney" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -38.454529,-86.338737 4.837858,-125.984070 32.483761,-124.768387"
+              class="id_https id_JohnLennon" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -32.474911,-87.319244 21.257660,-119.465897 49.884064,-112.270584"
+              class="id_https id_McLennonPride" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -27.545897,-83.449425 27.775463,-102.397835 52.532051,-90.273514"
+              class="id_https id_TheBeatles" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -44.171021,-72.755562 -29.828135,-100.600861 -15.765406,-105.101669"
+              class="id_https id_você…" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -39.219208,-79.571388 -7.224871,-110.212700 13.653677,-109.761688"
+              class="id_https id_Mclennon" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -37.595943,-73.874222 -11.712446,-93.534897 3.468942,-91.460625"
+              class="id_https id_Elle" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -44.421471,-83.491470 -14.350412,-127.816299 10.448216,-132.567551"
+              class="id_https id_Henriques" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.670216,-58.692837 C -33.125450,-79.028183 7.194713,-99.714043 27.530054,-93.169273"
+              class="id_https id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 14.066181,-21.997660 14.066181,-11.901659 9.018182,-16.949659"
+              class="id_Top" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 29.959602,1.201000 34.145744,59.839111 15.995083,80.780533"
+              class="id_Top id_2019" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 7.994790,-31.714481 28.606934,-55.396801 43.371758,-56.420193"
+              class="id_Top id_playlist" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 5.594373,-12.399771 -6.366171,-10.710649 -10.916060,-14.134459"
+              class="id_Top id_Groups" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 21.391890,-14.437098 36.183609,7.892303 33.671047,20.266010"
+              class="id_Top id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C -5.915201,0.199097 -54.038410,3.522156 -71.187164,-11.411226"
+              class="id_Top id_BTS_twt" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 16.400467,-5.538036 10.356461,22.652822 -1.055163,30.035109"
+              class="id_Top id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 20.039665,-0.813888 12.368236,39.921989 -3.767535,50.943474"
+              class="id_Top id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 9.272278,-6.353058 -6.241477,9.922986 -16.838079,10.177082"
+              class="id_Top id_maroon5" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 15.129244,-18.086439 26.001003,-10.625014 27.137783,-4.513952"
+              class="id_Top id_thebeatles" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 13.399332,-12.936388 13.951147,-0.344755 9.937876,4.036395"
+              class="id_Top id_coldplay" stroke-opacity="1.0" stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 20.326645,6.917621 1.488417,59.681236 -22.378864,70.989700"
+              class="id_Top id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 4.515950,3.587215 -33.042706,27.639183 -53.579582,23.136951"
+              class="id_Top id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 15.302380,-11.499073 16.552794,6.103104 11.102206,12.387300"
+              class="id_Top id_5SOS" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 5.383234,8.587058 -38.374264,41.439713 -63.910980,37.804768"
+              class="id_Top id_linkinpark" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 13.936577,2.836438 -8.364980,39.893181 -28.151077,44.811573"
+              class="id_Top id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 21.718866,-7.664775 26.842567,25.313574 17.557684,38.014259"
+              class="id_Top id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 9.402094,-4.066542 -9.346718,15.834002 -22.229836,16.217913"
+              class="id_Top id_falloutboy" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 4.610409,-6.494831 -17.683491,2.575752 -28.138319,-1.832021"
+              class="id_Top id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 24.710884,-23.126278 57.514862,-8.852148 63.691483,6.840554"
+              class="id_Top id_hours" stroke-opacity="1.0" stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.018182,-16.949659 C 13.361993,9.565943 -19.895691,55.855057 -46.411293,60.198868"
+              class="id_Top id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 36.003082,60.772533 36.003082,100.788528 15.995083,80.780533"
+              class="id_2019" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -5.969728,47.865051 10.456278,-34.455383 43.371758,-56.420193"
+              class="id_2019 id_playlist" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 10.746367,56.453259 39.364204,12.089269 63.691483,6.840554"
+              class="id_2019 id_hours" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -8.370146,67.179764 -24.516830,10.230770 -10.916060,-14.134459"
+              class="id_2019 id_Groups" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -19.879721,79.778625 -72.189064,24.463577 -71.187164,-11.411226"
+              class="id_2019 id_BTS_twt" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 7.427370,65.142433 18.032949,28.833723 33.671047,20.266010"
+              class="id_2019 id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 2.435948,74.041496 -7.794199,43.594242 -1.055163,30.035109"
+              class="id_2019 id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 6.075147,78.765640 -5.782424,60.863407 -3.767535,50.943474"
+              class="id_2019 id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -4.692239,73.226479 -24.392139,30.864403 -16.838079,10.177082"
+              class="id_2019 id_maroon5" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 1.164724,61.493095 7.850344,10.316406 27.137783,-4.513952"
+              class="id_2019 id_thebeatles" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -0.565187,66.643143 -4.199512,20.596664 9.937876,4.036395"
+              class="id_2019 id_coldplay" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 6.362127,86.497154 -16.662241,80.622658 -22.378864,70.989700"
+              class="id_2019 id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -9.448567,83.166748 -51.193367,48.580601 -53.579582,23.136951"
+              class="id_2019 id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 1.337859,68.080460 -1.597866,27.044523 11.102206,12.387300"
+              class="id_2019 id_5SOS" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -8.581284,88.166595 -56.524921,62.381134 -63.910980,37.804768"
+              class="id_2019 id_linkinpark" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -0.027942,82.415970 -26.515638,60.834595 -28.151077,44.811573"
+              class="id_2019 id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C 7.754349,71.914757 8.691908,46.254993 17.557684,38.014259"
+              class="id_2019 id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -4.562425,75.512993 -27.497375,36.775421 -22.229836,16.217913"
+              class="id_2019 id_falloutboy" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -9.354110,73.084702 -35.834152,23.517172 -28.138319,-1.832021"
+              class="id_2019 id_onedirection" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.995083,80.780533 C -0.602525,89.145477 -38.046352,76.796478 -46.411293,60.198868"
+              class="id_2019 id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 58.075760,-71.124191 58.075760,-41.716194 43.371758,-56.420193"
+              class="id_playlist" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 50.679344,-36.204781 31.317616,5.079711 11.102206,12.387300"
+              class="id_playlist id_5SOS" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 40.971344,-37.105480 8.398651,-11.734042 -10.916060,-14.134459"
+              class="id_playlist id_Groups" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 29.461765,-24.506615 -39.273586,2.498764 -71.187164,-11.411226"
+              class="id_playlist id_BTS_twt" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 57.669762,-55.807522 78.197754,-33.441505 77.585083,-19.143503"
+              class="id_playlist id_Thank" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 18.527477,-59.071938 -14.761322,-100.315979 -12.109575,-125.160263"
+              class="id_playlist id_PaulMcCartney" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 27.524517,-67.912231 20.991722,-108.921150 32.483761,-124.768387"
+              class="id_playlist id_JohnLennon" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 33.504139,-68.892731 37.411526,-102.402969 49.884064,-112.270584"
+              class="id_playlist id_McLennonPride" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 38.433151,-65.022919 43.929329,-85.334915 52.532051,-90.273514"
+              class="id_playlist id_TheBeatles" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 34.957184,-52.465420 16.403160,-59.155125 12.448387,-67.569695"
+              class="id_playlist id_Aqui" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 21.808029,-54.329056 -13.674269,-83.537941 -15.765406,-105.101669"
+              class="id_playlist id_você…" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 26.759842,-61.144878 8.928994,-93.149773 13.653677,-109.761688"
+              class="id_playlist id_Mclennon" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 28.383106,-55.447716 4.441418,-76.471977 3.468942,-91.460625"
+              class="id_playlist id_Elle" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 21.557577,-65.064957 1.803453,-110.753372 10.448216,-132.567551"
+              class="id_playlist id_Henriques" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.371758,-56.420193 C 32.853600,-60.601669 23.348579,-82.651115 27.530054,-93.169273"
+              class="id_playlist id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 75.403481,-4.871446 75.403481,18.552553 63.691483,6.840554"
+              class="id_hours" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 61.273388,-1.134978 69.609558,-16.725412 77.585083,-19.143503"
+              class="id_hours id_Thank" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 67.908592,-0.302902 84.949455,-4.692409 92.092911,-0.475293"
+              class="id_hours id_spending" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 60.372490,15.529732 42.360226,23.585007 33.671047,20.266010"
+              class="id_hours id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 33.065395,30.165926 -47.861790,19.214859 -71.187164,-11.411226"
+              class="id_hours id_BTS_twt" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.691483,6.840554 C 54.109840,11.880392 32.177624,5.067689 27.137783,-4.513952"
+              class="id_hours id_thebeatles" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 82.633080,-24.191504 82.633080,-14.095503 77.585083,-19.143503"
+              class="id_Thank" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 49.377090,12.157402 -39.886261,16.796768 -71.187164,-11.411226"
+              class="id_Thank id_BTS_twt" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 84.220291,-18.311426 92.924988,-7.110500 92.092911,-0.475293"
+              class="id_Thank id_spending" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 76.684181,-2.478792 50.335758,21.166914 33.671047,20.266010"
+              class="id_Thank id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 70.421532,-6.128133 40.153152,2.649597 27.137783,-4.513952"
+              class="id_Thank id_thebeatles" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.585083,-19.143503 C 70.594666,0.459234 30.704945,19.377716 11.102206,12.387300"
+              class="id_Thank id_5SOS" stroke-opacity="1.0" stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -50.363167,-32.235226 -50.363167,9.412773 -71.187164,-11.411226"
+              class="id_BTS_twt" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -36.343960,-41.880058 61.624081,-35.318497 92.092911,-0.475293"
+              class="id_BTS_twt id_spending" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -59.677589,-24.010094 -23.514929,-25.644033 -10.916060,-14.134459"
+              class="id_BTS_twt id_Groups" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -43.880074,-26.047422 19.034851,-7.041080 33.671047,20.266010"
+              class="id_BTS_twt id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -48.871498,-17.148361 -6.792296,7.719441 -1.055163,30.035109"
+              class="id_BTS_twt id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -45.232300,-12.424212 -4.780521,24.988609 -3.767535,50.943474"
+              class="id_BTS_twt id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -55.999687,-17.963381 -23.390236,-5.010397 -16.838079,10.177082"
+              class="id_BTS_twt id_maroon5" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -50.142715,-29.696762 8.852246,-25.558399 27.137783,-4.513952"
+              class="id_BTS_twt id_thebeatles" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -51.872635,-24.546711 -3.197608,-15.278137 9.937876,4.036395"
+              class="id_BTS_twt id_coldplay" stroke-opacity="1.0"
+              stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -44.945320,-4.692701 -15.660341,44.747856 -22.378864,70.989700"
+              class="id_BTS_twt id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -60.756012,-8.023107 -50.191460,12.705799 -53.579582,23.136951"
+              class="id_BTS_twt id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -49.969585,-23.109394 -0.595963,-8.830279 11.102206,12.387300"
+              class="id_BTS_twt id_5SOS" stroke-opacity="1.0" stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -59.888725,-3.023264 -55.523018,26.506332 -63.910980,37.804768"
+              class="id_BTS_twt id_linkinpark" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -51.335388,-8.773883 -25.513733,24.959795 -28.151077,44.811573"
+              class="id_BTS_twt id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -43.553097,-19.275101 9.693810,10.380192 17.557684,38.014259"
+              class="id_BTS_twt id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -55.869869,-15.676865 -26.495474,0.900619 -22.229836,16.217913"
+              class="id_BTS_twt id_falloutboy" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -60.661556,-18.105154 -34.832249,-12.357632 -28.138319,-1.832021"
+              class="id_BTS_twt id_onedirection" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -65.691750,-39.370033 -15.510417,-73.065109 12.448387,-67.569695"
+              class="id_BTS_twt id_Aqui" stroke-opacity="1.0" stroke="#1fbabe"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.187164,-11.411226 C -51.909966,-2.044381 -37.044449,40.921673 -46.411293,60.198868"
+              class="id_BTS_twt id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#779ec9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.092911,-0.475293 C 97.140907,-5.523293 97.140907,4.572707 92.092911,-0.475293"
+              class="id_spending" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.092911,-0.475293 C 84.556801,15.357341 49.503681,27.802124 33.671047,20.266010"
+              class="id_spending id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.092911,-0.475293 C 78.294151,11.708000 39.321075,9.284805 27.137783,-4.513952"
+              class="id_spending id_thebeatles" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -5.868061,-19.182459 -5.868061,-9.086458 -10.916060,-14.134459"
+              class="id_Groups" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C 4.881455,-16.171787 31.633717,4.468494 33.671047,20.266010"
+              class="id_Groups id_QueenWillRock" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -0.109967,-7.272725 5.806571,19.229015 -1.055163,30.035109"
+              class="id_Groups id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C 3.529231,-2.548577 7.818347,36.498180 -3.767535,50.943474"
+              class="id_Groups id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -7.238155,-8.087746 -10.791367,6.499177 -16.838079,10.177082"
+              class="id_Groups id_maroon5" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -1.381190,-19.821127 21.451115,-14.048822 27.137783,-4.513952"
+              class="id_Groups id_thebeatles" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -3.111103,-14.671075 9.401259,-3.768563 9.937876,4.036395"
+              class="id_Groups id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C 3.816211,5.182934 -3.061472,56.257427 -22.378864,70.989700"
+              class="id_Groups id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -11.994483,1.852528 -37.592598,24.215374 -53.579582,23.136951"
+              class="id_Groups id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -1.208055,-13.233761 12.002905,2.679295 11.102206,12.387300"
+              class="id_Groups id_5SOS" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -11.127200,6.852370 -42.924152,38.015907 -63.910980,37.804768"
+              class="id_Groups id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -2.573857,1.101751 -12.914868,36.469368 -28.151077,44.811573"
+              class="id_Groups id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C 5.208433,-9.399463 22.292679,21.889767 17.557684,38.014259"
+              class="id_Groups id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -7.108342,-5.801229 -13.896606,12.410193 -22.229836,16.217913"
+              class="id_Groups id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -11.900024,-8.229519 -22.233379,-0.848057 -28.138319,-1.832021"
+              class="id_Groups id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.916060,-14.134459 C -3.148440,7.831254 -24.445583,52.431248 -46.411293,60.198868"
+              class="id_Groups id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 38.719048,15.218010 38.719048,25.314011 33.671047,20.266010"
+              class="id_QueenWillRock" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 28.679625,29.165071 7.843900,35.026531 -1.055163,30.035109"
+              class="id_QueenWillRock id_Imaginedragons" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 32.318825,33.889221 9.855674,52.295696 -3.767535,50.943474"
+              class="id_QueenWillRock id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 21.551435,28.350050 -8.754040,22.296694 -16.838079,10.177082"
+              class="id_QueenWillRock id_maroon5" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 27.408401,16.616671 23.488441,1.748694 27.137783,-4.513952"
+              class="id_QueenWillRock id_thebeatles" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 25.678490,21.766720 11.438586,12.028952 9.937876,4.036395"
+              class="id_QueenWillRock id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 32.605801,41.620731 -1.024143,72.054947 -22.378864,70.989700"
+              class="id_QueenWillRock id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 16.795109,38.290325 -35.555267,40.012890 -53.579582,23.136951"
+              class="id_QueenWillRock id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 27.581537,23.204035 14.040233,18.476810 11.102206,12.387300"
+              class="id_QueenWillRock id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 17.662392,43.290169 -40.886822,53.813423 -63.910980,37.804768"
+              class="id_QueenWillRock id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 26.215734,37.539547 -10.877541,52.266888 -28.151077,44.811573"
+              class="id_QueenWillRock id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 33.998024,27.038334 24.330008,37.687283 17.557684,38.014259"
+              class="id_QueenWillRock id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 21.681252,30.636566 -11.859279,28.207710 -22.229836,16.217913"
+              class="id_QueenWillRock id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 16.889566,28.208275 -20.196053,14.949458 -28.138319,-1.832021"
+              class="id_QueenWillRock id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.671047,20.266010 C 25.641151,44.269051 -22.408253,68.228760 -46.411293,60.198868"
+              class="id_QueenWillRock id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C 3.992837,24.987108 3.992837,35.083107 -1.055163,30.035109"
+              class="id_Imaginedragons" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C 2.584036,34.759254 0.956612,47.304276 -3.767535,50.943474"
+              class="id_Imaginedragons id_TheChainsmokers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -8.183352,29.220087 -17.653101,17.305271 -16.838079,10.177082"
+              class="id_Imaginedragons id_maroon5" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -2.326385,17.486706 14.589380,-3.242729 27.137783,-4.513952"
+              class="id_Imaginedragons id_thebeatles" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -4.056298,22.636757 2.539525,7.037530 9.937876,4.036395"
+              class="id_Imaginedragons id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C 2.871015,42.490768 -9.923206,67.063522 -22.378864,70.989700"
+              class="id_Imaginedragons id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -12.939678,39.160362 -44.454330,35.021465 -53.579582,23.136951"
+              class="id_Imaginedragons id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -2.153251,24.074074 5.141171,13.485389 11.102206,12.387300"
+              class="id_Imaginedragons id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -12.072393,44.160202 -49.785885,48.821999 -63.910980,37.804768"
+              class="id_Imaginedragons id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -3.519053,38.409584 -19.776600,47.275463 -28.151077,44.811573"
+              class="id_Imaginedragons id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C 4.263237,27.908371 15.430944,32.695862 17.557684,38.014259"
+              class="id_Imaginedragons id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -8.053536,31.506603 -20.758339,23.216286 -22.229836,16.217913"
+              class="id_Imaginedragons id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -12.845221,29.078314 -29.095114,9.958036 -28.138319,-1.832021"
+              class="id_Imaginedragons id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.055163,30.035109 C -4.093637,45.139084 -31.307314,63.237343 -46.411293,60.198868"
+              class="id_Imaginedragons id_//t.co/urtHl2JdXb"
+              stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C 1.280464,45.895473 1.280464,55.991474 -3.767535,50.943474"
+              class="id_TheChainsmokers" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -14.534924,45.404305 -22.377251,20.944469 -16.838079,10.177082"
+              class="id_TheChainsmokers id_maroon5" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -8.677957,33.670925 9.865233,0.396469 27.137783,-4.513952"
+              class="id_TheChainsmokers id_thebeatles" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -10.407869,38.820976 -2.184623,10.676728 9.937876,4.036395"
+              class="id_TheChainsmokers id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -3.480556,58.674988 -14.647354,70.702721 -22.378864,70.989700"
+              class="id_TheChainsmokers id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -19.291250,55.344578 -49.178478,38.660667 -53.579582,23.136951"
+              class="id_TheChainsmokers id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -8.504823,40.258289 0.417022,17.124588 11.102206,12.387300"
+              class="id_TheChainsmokers id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -18.423965,60.344421 -54.510036,52.461197 -63.910980,37.804768"
+              class="id_TheChainsmokers id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -9.870625,54.593803 -24.500748,50.914661 -28.151077,44.811573"
+              class="id_TheChainsmokers id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -2.088334,44.092587 10.706797,36.335056 17.557684,38.014259"
+              class="id_TheChainsmokers id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -14.405107,47.690819 -25.482489,26.855484 -22.229836,16.217913"
+              class="id_TheChainsmokers id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -19.196793,45.262531 -33.819260,13.597235 -28.138319,-1.832021"
+              class="id_TheChainsmokers id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.767535,50.943474 C -10.445208,61.323303 -36.031464,66.876541 -46.411293,60.198868"
+              class="id_TheChainsmokers id_//t.co/urtHl2JdXb"
+              stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -11.790079,5.129082 -11.790079,15.225082 -16.838079,10.177082"
+              class="id_maroon5" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -10.981113,-1.556297 15.404403,-10.370917 27.137783,-4.513952"
+              class="id_maroon5 id_thebeatles" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -12.711027,3.593753 3.354548,-0.090659 9.937876,4.036395"
+              class="id_maroon5 id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -5.783711,23.447763 -9.108184,59.935333 -22.378864,70.989700"
+              class="id_maroon5 id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -21.594406,20.117357 -43.639309,27.893278 -53.579582,23.136951"
+              class="id_maroon5 id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -10.807980,5.031068 5.956193,6.357200 11.102206,12.387300"
+              class="id_maroon5 id_5SOS" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -20.727121,25.117199 -48.970863,41.693810 -63.910980,37.804768"
+              class="id_maroon5 id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -12.173781,19.366581 -18.961578,40.147274 -28.151077,44.811573"
+              class="id_maroon5 id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -4.391492,8.865364 16.245968,25.567671 17.557684,38.014259"
+              class="id_maroon5 id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -16.708265,12.463599 -19.943317,16.088099 -22.229836,16.217913"
+              class="id_maroon5 id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -21.499949,10.035309 -28.280092,2.829847 -28.138319,-1.832021"
+              class="id_maroon5 id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.838079,10.177082 C -12.748364,26.096081 -30.492294,56.109154 -46.411293,60.198868"
+              class="id_maroon5 id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 32.185783,-9.561952 32.185783,0.534048 27.137783,-4.513952"
+              class="id_thebeatles" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 25.407871,0.636099 15.087927,5.766307 9.937876,4.036395"
+              class="id_thebeatles id_coldplay" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 32.335182,20.490112 2.625198,65.792297 -22.378864,70.989700"
+              class="id_thebeatles id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 16.524490,17.159702 -31.905930,33.750244 -53.579582,23.136951"
+              class="id_thebeatles id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 27.310919,2.073414 17.689571,12.214165 11.102206,12.387300"
+              class="id_thebeatles id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 17.391773,22.159544 -37.237480,47.550777 -63.910980,37.804768"
+              class="id_thebeatles id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 25.945114,16.408926 -7.228199,46.004242 -28.151077,44.811573"
+              class="id_thebeatles id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 33.727406,5.907710 27.979345,31.424637 17.557684,38.014259"
+              class="id_thebeatles id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 21.410633,9.505945 -8.209938,21.945063 -22.229836,16.217913"
+              class="id_thebeatles id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 16.618950,7.077654 -16.546713,8.686812 -28.138319,-1.832021"
+              class="id_thebeatles id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.137783,-4.513952 C 25.370533,23.138428 -18.758911,61.966118 -46.411293,60.198868"
+              class="id_thebeatles id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 14.985876,-1.011605 14.985876,9.084394 9.937876,4.036395"
+              class="id_coldplay" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 16.865189,23.890406 -2.524854,64.062386 -22.378864,70.989700"
+              class="id_coldplay id_PanicAtTheDisco" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 1.054496,20.559998 -37.055981,32.020332 -53.579582,23.136951"
+              class="id_coldplay id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 11.840923,5.473710 12.539521,10.484253 11.102206,12.387300"
+              class="id_coldplay id_5SOS" stroke-opacity="1.0" stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 1.921778,25.559841 -42.387535,45.820866 -63.910980,37.804768"
+              class="id_coldplay id_linkinpark" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 10.475121,19.809221 -12.378251,44.274326 -28.151077,44.811573"
+              class="id_coldplay id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 18.257410,9.308006 22.829294,29.694725 17.557684,38.014259"
+              class="id_coldplay id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 5.940638,12.906240 -13.359989,20.215151 -22.229836,16.217913"
+              class="id_coldplay id_falloutboy" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 1.148953,10.477951 -21.696762,6.956901 -28.138319,-1.832021"
+              class="id_coldplay id_onedirection" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.937876,4.036395 C 9.900536,26.538723 -23.908966,60.236206 -46.411293,60.198868"
+              class="id_coldplay id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -17.330864,65.941704 -17.330864,76.037697 -22.378864,70.989700"
+              class="id_PanicAtTheDisco" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -38.189556,67.659294 -56.909988,38.947643 -53.579582,23.136951"
+              class="id_PanicAtTheDisco id_twentyonepilots" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -27.403130,52.573006 -7.314489,17.411566 11.102206,12.387300"
+              class="id_PanicAtTheDisco id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -37.322273,72.659134 -62.241543,52.748177 -63.910980,37.804768"
+              class="id_PanicAtTheDisco id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -28.768932,66.908516 -32.232262,51.201641 -28.151077,44.811573"
+              class="id_PanicAtTheDisco id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -20.986645,56.407307 2.975287,36.622040 17.557684,38.014259"
+              class="id_PanicAtTheDisco id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -33.303417,60.005539 -33.214001,27.142466 -22.229836,16.217913"
+              class="id_PanicAtTheDisco id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -38.095100,57.577244 -41.550774,13.884215 -28.138319,-1.832021"
+              class="id_PanicAtTheDisco id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.378864,70.989700 C -29.343517,73.638023 -43.762970,67.163521 -46.411293,60.198868"
+              class="id_PanicAtTheDisco id_//t.co/urtHl2JdXb"
+              stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -48.531582,18.088951 -48.531582,28.184952 -53.579582,23.136951"
+              class="id_twentyonepilots" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -42.793156,8.050663 -3.984082,1.600873 11.102206,12.387300"
+              class="id_twentyonepilots id_5SOS" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -52.712299,28.136795 -58.911137,36.937485 -63.910980,37.804768"
+              class="id_twentyonepilots id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -44.158958,22.386175 -28.901854,35.390949 -28.151077,44.811573"
+              class="id_twentyonepilots id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -36.376667,11.884959 6.305692,20.811344 17.557684,38.014259"
+              class="id_twentyonepilots id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -48.693439,15.483194 -29.883593,11.331772 -22.229836,16.217913"
+              class="id_twentyonepilots id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -53.485123,13.054905 -38.220364,-1.926479 -28.138319,-1.832021"
+              class="id_twentyonepilots id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.579582,23.136951 C -44.733540,29.115677 -40.432568,51.352825 -46.411293,60.198868"
+              class="id_twentyonepilots id_//t.co/urtHl2JdXb"
+              stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 16.150206,7.339301 16.150206,17.435301 11.102206,12.387300"
+              class="id_5SOS" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 1.183063,32.473431 -43.824852,47.723911 -63.910980,37.804768"
+              class="id_5SOS id_linkinpark" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 9.736403,26.722811 -13.815567,46.177376 -28.151077,44.811573"
+              class="id_5SOS id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 17.518694,16.221596 21.391979,31.597771 17.557684,38.014259"
+              class="id_5SOS id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 5.201920,19.819832 -14.797304,22.118198 -22.229836,16.217913"
+              class="id_5SOS id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 0.410237,17.391541 -23.134079,8.859948 -28.138319,-1.832021"
+              class="id_5SOS id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.102206,12.387300 C 9.161819,33.452316 -25.346279,62.139256 -46.411293,60.198868"
+              class="id_5SOS id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -58.862980,32.756767 -58.862980,42.852768 -63.910980,37.804768"
+              class="id_linkinpark" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -55.357639,32.054146 -33.901699,36.258232 -28.151077,44.811573"
+              class="id_linkinpark id_ChiliPeppers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -47.575352,21.552931 1.305849,21.678629 17.557684,38.014259"
+              class="id_linkinpark id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -59.892124,25.151167 -34.883434,12.199055 -22.229836,16.217913"
+              class="id_linkinpark id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -64.683807,22.722878 -43.220207,-1.059196 -28.138319,-1.832021"
+              class="id_linkinpark id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -63.910980,37.804768 C -55.932220,38.783649 -45.432411,52.220108 -46.411293,60.198868"
+              class="id_linkinpark id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.151077,44.811573 C -23.103077,39.763573 -23.103077,49.859573 -28.151077,44.811573"
+              class="id_ChiliPeppers" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.151077,44.811573 C -20.368788,34.310356 7.056469,30.231970 17.557684,38.014259"
+              class="id_ChiliPeppers id_jonasbrothers" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.151077,44.811573 C -32.685562,37.908592 -29.132816,20.752398 -22.229836,16.217913"
+              class="id_ChiliPeppers id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.151077,44.811573 C -37.477242,35.480305 -37.469589,7.494145 -28.138319,-1.832021"
+              class="id_ChiliPeppers id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.151077,44.811573 C -28.725660,51.541073 -39.681793,60.773453 -46.411293,60.198868"
+              class="id_ChiliPeppers id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.557684,38.014259 C 22.605684,32.966259 22.605684,43.062260 17.557684,38.014259"
+              class="id_jonasbrothers" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.557684,38.014259 C 5.240910,41.612495 -18.631601,28.534687 -22.229836,16.217913"
+              class="id_jonasbrothers id_falloutboy" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.557684,38.014259 C 0.449227,39.184204 -26.968374,15.276436 -28.138319,-1.832021"
+              class="id_jonasbrothers id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.557684,38.014259 C 9.200809,55.244976 -29.180574,68.555740 -46.411293,60.198868"
+              class="id_jonasbrothers id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.229836,16.217913 C -17.181835,11.169912 -17.181835,21.265913 -22.229836,16.217913"
+              class="id_falloutboy" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.229836,16.217913 C -27.021519,13.789622 -30.566610,2.959662 -28.138319,-1.832021"
+              class="id_falloutboy id_onedirection" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.229836,16.217913 C -18.269936,29.850395 -32.778809,56.238968 -46.411293,60.198868"
+              class="id_falloutboy id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.138319,-1.832021 C -23.090319,-6.880021 -23.090319,3.215979 -28.138319,-1.832021"
+              class="id_onedirection" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.138319,-1.832021 C -19.386734,14.228752 -30.350521,51.447285 -46.411293,60.198868"
+              class="id_onedirection id_//t.co/urtHl2JdXb" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 17.496387,-72.617691 17.496387,-62.521694 12.448387,-67.569695"
+              class="id_Aqui" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C -3.981319,-74.176216 -18.716097,-108.730560 -12.109575,-125.160263"
+              class="id_Aqui id_PaulMcCartney" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 5.015722,-83.016502 17.036947,-117.335716 32.483761,-124.768387"
+              class="id_Aqui id_JohnLennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 10.995344,-83.997009 33.456749,-110.817543 49.884064,-112.270584"
+              class="id_Aqui id_McLennonPride" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 15.924356,-80.127190 39.974556,-93.749481 52.532051,-90.273514"
+              class="id_Aqui id_TheBeatles" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C -0.700767,-69.433327 -17.629042,-91.952515 -15.765406,-105.101669"
+              class="id_Aqui id_você…" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 4.251046,-76.249153 4.974219,-101.564346 13.653677,-109.761688"
+              class="id_Aqui id_Mclennon" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 5.874312,-70.551987 0.486645,-84.886551 3.468942,-91.460625"
+              class="id_Aqui id_Elle" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C -0.951219,-80.169235 -2.151321,-119.167946 10.448216,-132.567551"
+              class="id_Aqui id_Henriques" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.448387,-67.569695 C 10.344805,-75.705948 19.393806,-91.065689 27.530054,-93.169273"
+              class="id_Aqui id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -46.411293,60.198868 C -41.363293,55.150867 -41.363293,65.246864 -46.411293,60.198868"
+              class="id_//t.co/urtHl2JdXb" stroke-opacity="1.0" stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -7.061575,-130.208267 -7.061575,-120.112267 -12.109575,-125.160263"
+              class="id_PaulMcCartney" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -3.112532,-134.000549 23.643469,-133.765427 32.483761,-124.768387"
+              class="id_PaulMcCartney id_JohnLennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C 2.867089,-134.981064 40.063271,-127.247246 49.884064,-112.270584"
+              class="id_PaulMcCartney id_McLennonPride" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C 7.796099,-131.111237 46.581074,-110.179184 52.532051,-90.273514"
+              class="id_PaulMcCartney id_TheBeatles" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -8.829022,-120.417381 -11.022521,-108.382225 -15.765406,-105.101669"
+              class="id_PaulMcCartney id_você…" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -3.877210,-127.233200 11.580741,-117.994049 13.653677,-109.761688"
+              class="id_PaulMcCartney id_Mclennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -2.253944,-121.536041 7.093166,-101.316254 3.468942,-91.460625"
+              class="id_PaulMcCartney id_Elle" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C -9.079474,-131.153290 4.455200,-135.597656 10.448216,-132.567551"
+              class="id_PaulMcCartney id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -12.109575,-125.160263 C 2.216548,-126.689987 26.000328,-107.495399 27.530054,-93.169273"
+              class="id_PaulMcCartney id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 37.531761,-129.816391 37.531761,-119.720390 32.483761,-124.768387"
+              class="id_JohnLennon" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 38.463383,-125.748886 48.903564,-118.250198 49.884064,-112.270584"
+              class="id_JohnLennon id_McLennonPride" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 43.392395,-121.879074 55.421368,-101.182144 52.532051,-90.273514"
+              class="id_JohnLennon id_TheBeatles" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 26.767271,-111.185211 -2.182227,-99.385178 -15.765406,-105.101669"
+              class="id_JohnLennon id_você…" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 31.719082,-118.001030 20.421032,-108.997017 13.653677,-109.761688"
+              class="id_JohnLennon id_Mclennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 33.342350,-112.303871 15.933458,-92.319214 3.468942,-91.460625"
+              class="id_JohnLennon id_Elle" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 26.516819,-121.921104 13.295493,-126.600609 10.448216,-132.567551"
+              class="id_JohnLennon id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.483761,-124.768387 C 37.812843,-117.457825 34.840618,-98.498360 27.530054,-93.169273"
+              class="id_JohnLennon id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 54.932064,-117.318581 54.932064,-107.222588 49.884064,-112.270584"
+              class="id_McLennonPride" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 54.813076,-108.400764 56.401867,-95.202522 52.532051,-90.273514"
+              class="id_McLennonPride id_TheBeatles" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 38.187954,-97.706909 -1.201729,-93.405563 -15.765406,-105.101669"
+              class="id_McLennonPride id_você…" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 43.139763,-104.522728 21.401533,-103.017387 13.653677,-109.761688"
+              class="id_McLennonPride id_Mclennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 44.763031,-98.825562 16.913960,-86.339592 3.468942,-91.460625"
+              class="id_McLennonPride id_Elle" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 37.937500,-108.442810 14.275992,-120.620995 10.448216,-132.567551"
+              class="id_McLennonPride id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.884064,-112.270584 C 49.233524,-103.979523 35.821117,-92.518730 27.530054,-93.169273"
+              class="id_McLennonPride id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 57.580051,-95.321510 57.580051,-85.225517 52.532051,-90.273514"
+              class="id_TheBeatles" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 35.906929,-79.579651 -5.071546,-88.476547 -15.765406,-105.101669"
+              class="id_TheBeatles id_você…" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 40.858742,-86.395477 17.531717,-98.088379 13.653677,-109.761688"
+              class="id_TheBeatles id_Mclennon" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 42.482006,-80.698311 13.044143,-81.410583 3.468942,-91.460625"
+              class="id_TheBeatles id_Elle" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 35.656479,-90.315552 10.406176,-115.691971 10.448216,-132.567551"
+              class="id_TheBeatles id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.532051,-90.273514 C 46.952499,-85.852272 31.951302,-87.589722 27.530054,-93.169273"
+              class="id_TheBeatles id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.765406,-105.101669 C -10.717405,-110.149666 -10.717405,-100.053673 -15.765406,-105.101669"
+              class="id_você…" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.765406,-105.101669 C -10.813594,-111.917496 6.837857,-114.713501 13.653677,-109.761688"
+              class="id_você… id_Mclennon" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.765406,-105.101669 C -9.190327,-106.220329 2.350281,-98.035706 3.468942,-91.460625"
+              class="id_você… id_Elle" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.765406,-105.101669 C -16.015858,-115.837570 -0.287685,-132.317093 10.448216,-132.567551"
+              class="id_você… id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.765406,-105.101669 C -4.719834,-111.374283 21.257441,-104.214844 27.530054,-93.169273"
+              class="id_você… id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.653677,-109.761688 C 18.701677,-114.809685 18.701677,-104.713692 13.653677,-109.761688"
+              class="id_Mclennon" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.653677,-109.761688 C 15.276943,-104.064529 9.166101,-93.083885 3.468942,-91.460625"
+              class="id_Mclennon id_Elle" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.653677,-109.761688 C 8.451412,-113.681770 6.528136,-127.365288 10.448216,-132.567551"
+              class="id_Mclennon id_Henriques" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.653677,-109.761688 C 19.747437,-109.218483 28.073261,-99.263031 27.530054,-93.169273"
+              class="id_Mclennon id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.468942,-91.460625 C 8.516942,-96.508621 8.516942,-86.412628 3.468942,-91.460625"
+              class="id_Elle" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.468942,-91.460625 C -3.356589,-101.077866 0.830976,-125.742020 10.448216,-132.567551"
+              class="id_Elle id_Henriques" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.468942,-91.460625 C 7.939435,-96.614578 22.376102,-97.639771 27.530054,-93.169273"
+              class="id_Elle id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.448216,-132.567551 C 15.496216,-137.615555 15.496216,-127.519554 10.448216,-132.567551"
+              class="id_Henriques" stroke-opacity="1.0" stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.448216,-132.567551 C 21.744240,-128.104263 31.993341,-104.465294 27.530054,-93.169273"
+              class="id_Henriques id_//t.co/z7L5LcWRkU" stroke-opacity="1.0"
+              stroke="#3fb17d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.530054,-93.169273 C 32.578053,-98.217270 32.578053,-88.121277 27.530054,-93.169273"
+              class="id_//t.co/z7L5LcWRkU" stroke-opacity="1.0" stroke="#3fb17d"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="0.8" fill="#00c4ff" r="20.0" cx="71.896805"
+                class="id_Spotify" cy="56.15262" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#00c4ff" r="7.692" cx="54.175865"
+                class="id_year" cy="-22.112131" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#00c4ff" r="17.688" cx="-39.670216"
+                class="id_https" cy="-58.692837" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="9.018182"
+                class="id_Top" cy="-16.94966" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#00c4ff" r="10.004" cx="15.995083"
+                class="id_2019" cy="80.78053" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#00c4ff" r="7.352" cx="43.371758"
+                class="id_playlist" cy="-56.420193" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="5.856" cx="63.691483"
+                class="id_hours" cy="6.8405538" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="77.58508"
+                class="id_Thank" cy="-19.143503" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#00c4ff" r="10.412" cx="-71.187164"
+                class="id_BTS_twt" cy="-11.411226" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="92.09291"
+                class="id_spending" cy="-0.47529256" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-10.91606"
+                class="id_Groups" cy="-14.134459" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="33.671047"
+                class="id_QueenWillRock" cy="20.26601" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-1.0551625"
+                class="id_Imaginedragons" cy="30.035109" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-3.7675354"
+                class="id_TheChainsmokers" cy="50.943474" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-16.83808"
+                class="id_maroon5" cy="10.177082" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="27.137783"
+                class="id_thebeatles" cy="-4.513952" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="9.937876"
+                class="id_coldplay" cy="4.0363946" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-22.378864"
+                class="id_PanicAtTheDisco" cy="70.9897" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-53.579582"
+                class="id_twentyonepilots" cy="23.136951" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="11.102206"
+                class="id_5SOS" cy="12.3873005" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-63.91098"
+                class="id_linkinpark" cy="37.804768" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-28.151077"
+                class="id_ChiliPeppers" cy="44.811573" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="17.557684"
+                class="id_jonasbrothers" cy="38.01426" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-22.229836"
+                class="id_falloutboy" cy="16.217913" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-28.138319"
+                class="id_onedirection" cy="-1.8320211" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="12.448387"
+                class="id_Aqui" cy="-67.569695" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#ee7993" r="2.524" cx="-46.411293"
+                class="id_//t.co/urtHl2JdXb" cy="60.198868" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="-12.109575"
+                class="id_PaulMcCartney" cy="-125.16026" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="32.48376"
+                class="id_JohnLennon" cy="-124.76839" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="49.884064"
+                class="id_McLennonPride" cy="-112.270584" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="52.53205"
+                class="id_TheBeatles" cy="-90.27351" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="-15.765406"
+                class="id_você…" cy="-105.10167" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="13.653677"
+                class="id_Mclennon" cy="-109.76169" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="3.4689422"
+                class="id_Elle" cy="-91.460625" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="10.448216"
+                class="id_Henriques" cy="-132.56755" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+        <circle fill-opacity="0.8" fill="#3fb17d" r="2.524" cx="27.530054"
+                class="id_//t.co/z7L5LcWRkU" cy="-93.16927" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="6" x="71.896805" y="57.60428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Spotify">
+            Spotify
+        </text>
+        <text font-size="6" x="54.175865" y="-20.959787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_year">
+            year
+        </text>
+        <text font-size="6" x="-39.670216" y="-57.241177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_https">
+            https
+        </text>
+        <text font-size="6" x="9.018182" y="-15.543898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Top">
+            Top
+        </text>
+        <text font-size="6" x="15.995083" y="81.9153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_2019">
+            2019
+        </text>
+        <text font-size="6" x="43.371758" y="-54.968533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_playlist">
+            playlist
+        </text>
+        <text font-size="6" x="63.691483" y="8.001686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_hours">
+            hours
+        </text>
+        <text font-size="6" x="77.58508" y="-17.98237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Thank">
+            Thank
+        </text>
+        <text font-size="6" x="-71.187164" y="-9.943941" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_BTS_twt">
+            BTS_twt
+        </text>
+        <text font-size="6" x="92.09291" y="0.9763676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_spending">
+            spending
+        </text>
+        <text font-size="6" x="-10.91606" y="-12.709166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Groups">
+            Groups
+        </text>
+        <text font-size="6" x="33.671047" y="21.599018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_QueenWillRock">
+            QueenWillRock
+        </text>
+        <text font-size="6" x="-1.0551625" y="31.486769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Imaginedragons">
+            Imaginedragons
+        </text>
+        <text font-size="6" x="-3.7675354" y="52.104607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheChainsmokers">
+            TheChainsmokers
+        </text>
+        <text font-size="6" x="-16.83808" y="11.292316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_maroon5">
+            maroon5
+        </text>
+        <text font-size="6" x="27.137783" y="-3.352819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_thebeatles">
+            thebeatles
+        </text>
+        <text font-size="6" x="9.937876" y="5.4880548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_coldplay">
+            coldplay
+        </text>
+        <text font-size="6" x="-22.378864" y="72.15083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_PanicAtTheDisco">
+            PanicAtTheDisco
+        </text>
+        <text font-size="6" x="-53.579582" y="24.588612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_twentyonepilots">
+            twentyonepilots
+        </text>
+        <text font-size="6" x="11.102206" y="13.522066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_5SOS">
+            5SOS
+        </text>
+        <text font-size="6" x="-63.91098" y="39.256428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_linkinpark">
+            linkinpark
+        </text>
+        <text font-size="6" x="-28.151077" y="46.263233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ChiliPeppers">
+            ChiliPeppers
+        </text>
+        <text font-size="6" x="17.557684" y="39.46592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_jonasbrothers">
+            jonasbrothers
+        </text>
+        <text font-size="6" x="-22.229836" y="17.669573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_falloutboy">
+            falloutboy
+        </text>
+        <text font-size="6" x="-28.138319" y="-0.6708883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_onedirection">
+            onedirection
+        </text>
+        <text font-size="6" x="12.448387" y="-66.118034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Aqui">
+            Aqui
+        </text>
+        <text font-size="6" x="-46.411293" y="61.63881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_//t.co/urtHl2JdXb">
+            //t.co/urtHl2JdXb
+        </text>
+        <text font-size="6" x="-12.109575" y="-123.7086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_PaulMcCartney">
+            PaulMcCartney
+        </text>
+        <text font-size="6" x="32.48376" y="-123.328445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_JohnLennon">
+            JohnLennon
+        </text>
+        <text font-size="6" x="49.884064" y="-111.10945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_McLennonPride">
+            McLennonPride
+        </text>
+        <text font-size="6" x="52.53205" y="-89.11238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_TheBeatles">
+            TheBeatles
+        </text>
+        <text font-size="6" x="-15.765406" y="-103.88048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_você…">
+            você…
+        </text>
+        <text font-size="6" x="13.653677" y="-108.600555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Mclennon">
+            Mclennon
+        </text>
+        <text font-size="6" x="3.4689422" y="-90.29949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Elle">
+            Elle
+        </text>
+        <text font-size="6" x="10.448216" y="-131.11589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Henriques">
+            Henriques
+        </text>
+        <text font-size="6" x="27.530054" y="-91.890465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_//t.co/z7L5LcWRkU">
+            //t.co/z7L5LcWRkU
+        </text>
+    </g>
+</svg>
